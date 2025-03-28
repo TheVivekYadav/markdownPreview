@@ -21,6 +21,13 @@ This is a simple Markdown Previewer built using JavaScript. It allows users to w
 3. See the preview update instantly.
 4. Click the **Clear** button to reset the editor.
 
+## Screenshots 📸
+![pc Version](./img/ss1.png)
+![Mobile Version](./img/ss2.png)
+
+## Deployment 🌐
+[Click here to use](https://markdown-preview-murex.vercel.app/)
+
 ## Example Markdown
 ```
 # Hello World
